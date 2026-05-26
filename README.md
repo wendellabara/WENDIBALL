@@ -12,4 +12,4 @@ Comparative CFD investigation of rotating aerodynamic ball geometries designed t
 - Smooth sphere established Magnus-effect baseline behavior
 
 ## Full Report
-[View Full CFD Report](reports/[Wendiball_CFD_Report_v3.pdf](https://github.com/user-attachments/files/28246728/Wendiball_CFD_Report_v3.pdf))
+[View Full CFD Report](Wendiball_CFD_Report_v3.pdf)
