@@ -1,10 +1,11 @@
-# WENDIBALL CFD Study
+<h1 align="center">WENDIBALL CFD Study</h1>
+
+<p align="center">
+  <img src="media/cover.png" width="750"/>
+</p>
 
 ## Overview
 Comparative CFD investigation of rotating aerodynamic ball geometries designed to manipulate wake structures and Magnus-force behavior.
-
-## Cover Image
-<img width="606" height="785" alt="Screenshot 2026-05-26 000411" src="https://github.com/user-attachments/assets/d6a8fdbe-9a5c-4401-a30e-3d4d469a55d5" />
 
 ## Key Findings
 - Iteration 1 generated stronger chaotic lateral forcing
