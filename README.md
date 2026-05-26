@@ -1,7 +1,7 @@
 <h1 align="center">WENDIBALL CFD Study</h1>
 
 <p align="center">
-  <img src="media/cover.png" width="750"/>
+  <img src="https://github.com/user-attachments/assets/b3183797-c3e6-4ed2-944d-36b699e2219d" width="750"/>
 </p>
 
 ## Overview
